@@ -2,7 +2,7 @@
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-![Agricultura][Agricultura]
+![Agro][Agro]
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -16,7 +16,7 @@ De outra forma pode entrar em contato pelo linkedin abaixo:
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Agricultura]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/hero/agro.jpg
+[Agro]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/hero/agro.jpg
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/d-a-oliveira-filho/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
